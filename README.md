@@ -6,7 +6,7 @@
 
 
 <h3 align="center">Backend Developer</h3>
-<h4 align="center">Node.js | Nest.js | Adonis</h4>
+<h4 align="center">Node.js | Nest.js | Adonis.js</h4>
 <br/>
 
 <h1 align="center">Languages and Tools:</h1>
